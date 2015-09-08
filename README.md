@@ -8,3 +8,5 @@ To install SDDE, from a R prompt, use the command:
 To run this simulation, first download all the files to a new folder.
 Then, from a command prompt, use the command:
 `Rscript simulation.R`
+## genome_networks folder
+This repository also contains genome networks with 70% similarity.
